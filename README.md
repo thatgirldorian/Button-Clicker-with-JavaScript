@@ -1,1 +1,1 @@
-# Button-Clicker-with-JavaScript
+# Dictionary-Interface-Button-Clicker-with-JavaScript
