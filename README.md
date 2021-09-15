@@ -16,13 +16,9 @@ This is a small JavaScript app that lets you:
 - GitHub 
 
 <h3>Link to site:</h3>
+https://thatgirldorian.github.io/Dictionary-UI-Button-Clicker/
 
 
 <h3>Screenshot:</h3>
-
-
-
-
-
-
+<img width="975" alt="Screenshot 2021-09-15 at 2 20 40 AM" src="https://user-images.githubusercontent.com/40691059/133354953-fcd9b382-52eb-4188-8513-51a82b4374cd.png">
 
