@@ -3,7 +3,7 @@
 <h3>Function & Description:</h3>
 This is a small JavaScript app that lets you:
 
-- interact with the Login button by changing its text
+- interact with the login button by changing its text
 - get an alert when you click on the like button
 - toggle the definition button on and off
 
